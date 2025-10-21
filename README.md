@@ -4,7 +4,7 @@
 Me chamo Pedro tenho 16 anos sou de cascavel do parana, e faço curso tecnico na escola marista 
 pretendo seguir na area de tecnologia e me forma em engenharia de software".
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias que estou apredendo
 
 <img 
     align="left" 
