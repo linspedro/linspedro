@@ -2,7 +2,7 @@
 **`Cursando ensino tec`**
 
 Me chamo Pedro tenho 16 anos sou de cascavel do parana, e faço curso tecnico na escola marista 
-pretendo seguir na area de tecnologia e me forma em engenharia de software".
+pretendo seguir na area de tecnologia e me forma em ciência da computação.
 
 ### 🤖 Linguagens e Tecnologias que estou apredendo
 
